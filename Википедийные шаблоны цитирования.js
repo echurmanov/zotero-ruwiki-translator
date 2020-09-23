@@ -15,7 +15,7 @@
 }
 
 var fieldMap = {
-	"издание":"edition",
+	"издание":"edition111",
 	"издательство":"publisher",
 	doi:"DOI",
 	isbn:"ISBN",
